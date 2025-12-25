@@ -51,7 +51,7 @@ All templates work in:
 Apache License 2.0  
 Free to use, modify, and share with attribution.
 ## Attribution
-Created by *Mel*  
+Created by *Melat Mekonnen*  
 Inspired by real-world warehouse operations.
 ## Status
 Early-stage open framework.  
