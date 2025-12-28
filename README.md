@@ -63,3 +63,7 @@ ShipFlow is not a software product. It is a standardized operating method that c
 •⁠  ⁠Staging areas are used efficiently to minimize walking distance  
 •⁠  ⁠Trailer assignment always prioritizes CPT deadlines  
 •⁠  ⁠Codes can be relocated dynamically if volume spikes
+
+## 📽 ShipFlow Demo – v1.0
+- Download the 04.26-second video walkthrough and the PDF process guide(https://github.com/MelatMekonnen/Shipflow-organizer/releases/tag/v1.0)
+> Licensed under [Apache License 2.0](LICENSE). Companies may download and use the materials under the license terms.
